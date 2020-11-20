@@ -1,0 +1,106 @@
+{ 
+    "peliculas": [
+      {
+        "id": 1,
+        "nombre": "El sexto sentido",
+        "director": "M. Night Shyamalan",
+        "clasificacion": "Drama"
+      },
+      {
+        "id": 2,
+        "nombre": "Pulp Fiction",
+        "director": "Tarantino",
+        "clasificacion": "Acción"
+      },
+      {
+        "id": 3,
+        "nombre": "Todo Sobre Mi Madre",
+        "director": "Almodobar",
+        "clasificacion": "Drama"
+      },
+      {
+        "id": 4,
+        "nombre": "300",
+        "director": "Zack Snyder",
+        "clasificacion": "Acción"
+      },
+      {
+        "id": 5,
+        "nombre": "El silencio de los corderos",
+        "director": "Jonathan Demme",
+        "clasificacion": "Drama"
+      },
+      {
+        "id": 6,
+        "nombre": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "clasificacion": "Comedia"
+      },
+      {
+        "id": 7,
+        "nombre": "Las Hurdes",
+        "director": "Luis Buñuel",
+        "clasificacion": "Documental"
+      }
+    ],
+    "hospitales":[
+      {
+        "idhospital": 12,
+        "nombre": "raf",
+        "direccion": "123",
+        "telefono": "123",
+        "camas": 122
+      },
+      {
+        "idhospital": 14,
+        "nombre": "Homer1",
+        "direccion": "evergreen terrace",
+        "telefono": "7422",
+        "camas": 245
+      },
+      {
+        "idhospital": 17,
+        "nombre": "ruber",
+        "direccion": "juan bravo 49",
+        "telefono": "914027100",
+        "camas": 206
+      },
+      {
+        "idhospital": 18,
+        "nombre": "general",
+        "direccion": "Atocha s/n",
+        "telefono": "595-3111",
+        "camas": 987
+      },
+      {
+        "idhospital": 19,
+        "nombre": "provincial",
+        "direccion": "o donell 50",
+        "telefono": "964-4264",
+        "camas": 501
+      }
+    ],
+    "departamentos":[
+      {
+        "numero": 5,
+        "nombre": "ANGULARCRUD",
+        "localidad": "TAJAMAR"
+      },
+      {
+        "numero": 20,
+        "nombre": "INVESTIGACION",
+        "localidad": "MADRID"
+      },
+      {
+        "numero": 30,
+        "nombre": "VENTAS",
+        "localidad": "BARCELONA"
+      },
+      {
+        "numero": 40,
+        "nombre": "PRODUCCION",
+        "localidad": "SALAMANCA"
+      }
+    ]
+  }
+  
